@@ -139,6 +139,8 @@ namespace ChatApp
 
                     dataGridChat.DataSource = grid_comments();
 
+                    textBoxComment.Clear();
+
                 }
                 catch (Exception err)
                 {

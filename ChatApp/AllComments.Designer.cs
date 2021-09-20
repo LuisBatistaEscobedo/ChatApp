@@ -78,6 +78,7 @@ namespace ChatApp
             this.Controls.Add(this.gridAllComments);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "AllComments";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AllComments";
             this.Load += new System.EventHandler(this.AllComments_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridAllComments)).EndInit();

@@ -46,7 +46,7 @@ namespace ChatApp
 
                     con.Close();
 
-                    MessageBox.Show("Registro agredado!");
+                    MessageBox.Show("User added!");
 
                     clear_AllFields();
 
