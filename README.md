@@ -1,6 +1,6 @@
 # C# Project for Advance Object Oriented Programming Class
 
-This C# Project is used for the Advance Object Oriented Programming Class(**PROGRAMACION AVANZADA ORIENTADA A OBJETOS [2020-T4]**), for the multiple exercises we see in the class. The code used on this Project is merely for educational purposes.
+This C# Project is used for the Advance Object Oriented Programming Class(**PROGRAMACION AVANZADA ORIENTADA A OBJETOS [2021-T4]**), for the multiple exercises we see in the class. The code used on this Project is merely for educational purposes.
 
 
 # Contact Information
