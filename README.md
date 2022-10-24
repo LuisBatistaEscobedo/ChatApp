@@ -11,7 +11,7 @@ For more information, please use the following information for contact:
 - Email: luizbatistae@gmail.com
 - School Enrollment #: **e012579**
 - Institution: Cetys Universidad
-- Class: DISEÑO DE SISTEMAS DISTRIBUDOS [2020-T4]
+- Class: PROGRAMACIÓN AVANZADA ORIENTADA A OBJETOS [2021-T4]
 
 ## Project Changes
 
